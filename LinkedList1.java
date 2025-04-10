@@ -55,7 +55,7 @@ public class LinkedList1 {
         }
 
         if (k == 1) {
-            Node temp = head;
+            Node temp = head
             head = head.next;
             return head;
         }
