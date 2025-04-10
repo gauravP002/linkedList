@@ -1,0 +1,1 @@
+    Node val =covertIntoLinkedList(arr);
